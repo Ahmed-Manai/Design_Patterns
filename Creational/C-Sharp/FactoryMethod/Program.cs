@@ -58,6 +58,6 @@ public class Program
 
     public static void ClientCode(Creator creator)
     {
-        Console.WriteLine("Clietn:" + creator.SomeOperation());
+        Console.WriteLine("Client: " + creator.SomeOperation());
     }
 }
